@@ -8,7 +8,7 @@ First screen shows the name of the app, after 2 seconds jumps to the List of not
 ![startNotitiyas](https://user-images.githubusercontent.com/49799875/114703351-75c30d00-9d25-11eb-9126-4992d539c9f2.jpeg)
 
 
-In the topbar you can delete create a new note or delete all.
+In the topbar you can create a new note or delete all.
 
 ![listadoNotitiyas](https://user-images.githubusercontent.com/49799875/114704431-e1f24080-9d26-11eb-96e7-1d0939e7eab3.jpeg)
 
